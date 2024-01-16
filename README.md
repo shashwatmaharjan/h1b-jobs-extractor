@@ -6,7 +6,6 @@ This repository is designed to assist individuals seeking sponsorships by enabli
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
