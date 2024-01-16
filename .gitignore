@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+
+# macOS code editors
+.idea/
+.vscode/
+
+# Compiled files
+*.o
+*.pyc
+*.class
+
+# Dependency directories
+node_modules/
+
+# Files
+*.xlsx
