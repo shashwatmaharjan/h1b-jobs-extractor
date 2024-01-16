@@ -1,4 +1,4 @@
-# H1B Sponsorship Jobs Extractor from LCA Program Sheets - Department of Labor
+# H1B Sponsorship Jobs Extractor By Year
 
 This repository is designed to assist individuals seeking sponsorships by enabling them to iterate through the Excel sheet provided by the US Department of Labor LCA Programs. It helps identify companies that offer sponsorships. The associated website is https://www.dol.gov/agencies/eta/foreign-labor/performance#dis.
 
@@ -12,7 +12,9 @@ This repository is designed to assist individuals seeking sponsorships by enabli
 ## Installation
 
 Clone the repository and set up your environment using the provided environment.yml file:
-conda env create -f environment.yml
+```python
+> conda env create -f environment.yml
+```
 
 ## Usage
 
